@@ -4,7 +4,7 @@
 
 * 이름 : 이재성
 * Email : fg9658@gmail.com
-* Github : github.com/RebirthLee
+* Github : [github.com/RebirthLee](https://github.com/RebirthLee)
   
 코드도 하나의 예술이라고 생각합니다. 새로운 플랫폼, 언어, 아키텍처, 그 외 패러다임이 주는 신선한 충격은 저를 움직이게 하고 빠져들게 합니다. 또한 그런 **힙**한 것들을 습득하고 사용해보기를 매우 좋아합니다.
 * **관심/흥미**
