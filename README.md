@@ -26,7 +26,7 @@
   * **Android, Java**
 
 # 경력
-* [유비스마트](http://ubsmart.kr/)
+* [유비스마트](http://ubsmart.kr/)
   * 소프트웨어 개발자
   * 2018.6 ~
 * [담덕글로벌](http://damduk.co.kr/)
@@ -44,14 +44,14 @@
 * 사용기술 : Go, MariaDB, Android, Kotlin, Java, Firebase, Velocity.js, Spring(Java), iBATIS, Struts, Lua
 
 ## ubServer
-* 기간 : 2019.05 ~ 지속적 유지보수
+* 기간 : 2019.05 ~ 인수인계 전, 퇴사전
 * 소속 : 유비스마트
 * 유형 : IoT 소켓 서버, B2B
 * 역할 : 소켓 서버 유지보수
 * 사용기술 : 윈폼, C#, MSSQL, TCP 소켓
 
 ## UBSmartIoT
-* 기간 : 2018.08 ~ 지속적 유지보수
+* 기간 : 2018.08 ~ 인수인계 전, 퇴사전
 * 소속 : 유비스마트
 * 유형 : 제품 설정 어플리케이션, B2B
 * 역할 : 안드로이드 유지보수
