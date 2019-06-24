@@ -41,7 +41,7 @@
 * 소속 : 유비스마트
 * 유형 : IoT 서비스
 * 역할 : 소켓 서버 유지보수, API 서버 설계 및 개발, DB 일부 추가 설계, 안드로이드 개발, 웹 페이지 유지보수
-* 사용기술 : Go, MariaDB, Android, Kotlin, Java, Firebase, Velocity.js, Spring(Java), iBATIS, Struts, Lua
+* 사용기술 : Go, MariaDB, Android, Kotlin, Java, Firebase, Velocity.js, Spring(Java), iBATIS, Struts, Lua, iOS/SwiftUI(진행중)
 
 ## ubServer
 * 기간 : 2019.05 ~ 인수인계 전, 퇴사전
@@ -55,21 +55,21 @@
 * 소속 : 유비스마트
 * 유형 : 제품 설정 어플리케이션, B2B
 * 역할 : 안드로이드 유지보수
-* 사용기술 : Android
+* 사용기술 : Android, WiFi
 
 ## SMART-A1
 * 기간 : 2018.08 ~ 2019.04
 * 소속 : 유비스마트
 * 유형 : 제품 설정 어플리케이션, B2B
 * 역할 : 안드로이드 유지보수
-* 사용기술 : Android
+* 사용기술 : Android, NFC, WiFi
 
 ## SMART-CA5
 * 기간 : 2018.07 ~ 2018.10
 * 소속 : 유비스마트
 * 유형 : 제품 설정 어플리케이션, B2B
 * 역할 : 안드로이드 유지보수
-* 사용기술 : Android
+* 사용기술 : Android, WiFi
 
 ## 살균수 제조기
 * 기간 : 2017.08 ~ 2017.10
@@ -83,7 +83,7 @@
 * 소속 : 담덕글로벌
 * 유형 : 하청, 시제품 개발, 소형 IoT, B2B
 * 역할 : API 서버, DB 설계, 안드로이드 유지보수, Protocol 설계, F/W, H/W
-* 사용기술 : F/W, H/W, Android, PHP, MySQL
+* 사용기술 : F/W, H/W, Android, PHP, MySQL, WiFi
 
 ## 마카롱
 * 기간 : 2015.09 ~ 2016.03
