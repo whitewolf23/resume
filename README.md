@@ -21,6 +21,7 @@
   * **Go, BackEnd**
   * **iOS, Swift**
   * **Kotlin**
+  * **MariaDB(MySQL), Redis**
   
 * **주 기술**
   * **Android, Java**
@@ -41,7 +42,7 @@
 * 소속 : 유비스마트
 * 유형 : IoT 서비스
 * 역할 : 소켓 서버 유지보수, API 서버 설계 및 개발, DB 일부 추가 설계, 안드로이드 개발, 웹 페이지 유지보수
-* 사용기술 : Go, MariaDB, Android, Kotlin, Java, Firebase, Velocity.js, Spring(Java), iBATIS, Struts, Lua, iOS/SwiftUI(진행중)
+* 사용기술 : Go, MariaDB, Redis, Android, Kotlin, Java, Firebase, Velocity.js, Spring(Java), iBATIS, Struts, Lua, iOS/SwiftUI(진행중)
 
 ## ubServer
 * 기간 : 2019.05 ~ 인수인계 전, 퇴사전
