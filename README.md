@@ -12,6 +12,7 @@
   * **TensorFlow**
   * **AWS**
   * **DevOps**
+  * **Kubernetes**
   * **Front End (React, Vue)**
   * **UI/UX Design**
   
