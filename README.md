@@ -5,8 +5,8 @@
 * 이름 : 이재성
 * Email : fg9658@gmail.com
 * Github : [github.com/RebirthLee](https://github.com/RebirthLee)
-  
-코드도 하나의 예술이라고 생각합니다. 새로운 플랫폼, 언어, 아키텍처, 그 외 패러다임이 주는 신선한 충격은 저를 움직이게 하고 빠져들게 합니다. 또한 그런 **힙**한 것들을 습득하고 사용해보기를 매우 좋아합니다.
+
+ 재밌어 보이는 것을 하려고 합니다.
 * **관심/흥미**
   * **CI/CD**
   * **TensorFlow**
@@ -37,6 +37,13 @@
   * 안드로이드 개발자(인턴)
   * 2014.10 ~ 2014.12
 # 프로젝트
+## UCOPS iOS
+* 기간 : 2019.7 ~ 
+* 소속 : 유비스마트
+* 유형 : IoT 서비스
+* 역할 : API 서버 설계 및 개발, 확정 기능(계정 관련 정보, 알림 목록, 코어데이터 동기화), 삭제 기능(노티피케이션 익스텐션 서비스)
+* 사용기술 : Go, MariaDB, Redis, Android, Kotlin, Java, Firebase, Velocity.js, Spring(Java), iBATIS, Struts, Lua, iOS/SwiftUI(진행중)
+
 ## UCOPS
 * 기간 : 2018.10 ~ 
 * 소속 : 유비스마트
